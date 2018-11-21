@@ -3,7 +3,7 @@ import threading
 import pickle
 import sys
 
-import p_blockchain
+import blockchain
 
 HOST = ''
 PORT = 9009
