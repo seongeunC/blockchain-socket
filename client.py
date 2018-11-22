@@ -2,7 +2,7 @@ import socket
 from threading import Thread,Lock
 import sys
 import pickle  # socket.send에서 list 보내기 위해
-import p_blockchain
+import blockchain
 
 HOST = 'localhost'
 PORT = 9009
